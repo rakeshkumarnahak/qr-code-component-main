@@ -25,8 +25,8 @@ This is a simple landing page showing the QR code.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-project-solution-HJ8u8C3Xc
+- Live Site URL: https://rakeshkumarnahak.github.io/qr-code-component-main/
 
 ## My process
 
